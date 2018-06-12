@@ -1,5 +1,6 @@
 # Markdown и 1С:Предприятие. Визуализация разметки MD в поле HTML документа.
 
+![LOGO](LOGO.png)
 Пример взаимодействия HTML и JavaScript для статьи на ИС
 
 [Статья на Инфостарте](https://infostart.ru/public/845850/)
